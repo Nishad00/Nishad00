@@ -1,16 +1,45 @@
-### Hi there 👋
+<h1 align="center">Hello 👋, I'm Nishad</h1>
 
-<!--
-**Nishad00/Nishad00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A Python (Programming Language) Programmer, Having Intermediate Knowledge of Developement. Currently Learning Rest &  Microservices System. Persuing B.Tech from MIT Academy of Engineering</h3>
 
-Here are some ideas to get you started:
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/Nishad00/Nishad00"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Connect with me on</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nishad-patil-964631167/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"     alt="Nishad00" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/cedecsp" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="cedecsp" height="30" width="40" />
+  </a>
+</p>
+
+<br/>
+
+- 🔭 I’m currently working on **Spring Boot Applications**
+
+- 🌱 I’m currently learning **Microservices**
+
+- 💬 Ask me about **DS, OOP, python MVC, spring Web API**
+
+- 📫 How to reach me **nishadpatil63@gmail.com**
+
+---
+
+## Languages and Tools
+
+**Type** | **Lanuguage**
+--- | ---
+**Languages** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+**Databases** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+**Framework and Libraries** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/>    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+**Platforms** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+**Cloud** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+**Tools** | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>  
+
+
+<br/>
+
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nishad00&show_icons=true&locale=en&count_private=true" alt="Nishad00" /></p>
