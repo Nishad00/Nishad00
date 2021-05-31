@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/nishad-patil-964631167/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"     alt="Nishad00" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/cedecsp" target="blank">
+  <a href="https://www.hackerrank.com/nishadvp" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="cedecsp" height="30" width="40" />
   </a>
 </p>
